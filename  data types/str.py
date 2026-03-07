@@ -1,3 +1,3 @@
-a="i am vengeance"
-print(a)
-print(type(a))
+b="i am vengeanc"
+print(b)
+print(type(b))

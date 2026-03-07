@@ -1,3 +1,3 @@
-a=["w","o"]
+a=["w","o","mmmmm"]
 for i in a:
     print(i)
